@@ -19,3 +19,14 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*.tmp
+
+# Arquivos de sistema
+Thumbs.db
